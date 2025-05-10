@@ -1,0 +1,1 @@
+export default function Page() { return (<div>시스템 설명</div>); }

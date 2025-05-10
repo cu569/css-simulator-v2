@@ -1,0 +1,1 @@
+export default function Page() { return (<div>영상 업로드</div>); }
